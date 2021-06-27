@@ -1,0 +1,8 @@
+{
+    "name": "dbt",
+    "dockerFile": "Dockerfile.dev",
+    "settings": {
+        "editor.renderWhitespace": "all",
+        "terminal.integrated.shell.linux": "/usr/local/bin/fish"
+    }
+}
